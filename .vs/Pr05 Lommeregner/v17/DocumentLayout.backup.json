@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\G\u00E6st\\source\\repos\\Pr05 Lommeregner\\",
+  "WorkspaceRootPath": "C:\\Users\\Pham2\\source\\repos\\Lommeregner\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F8102A54-AEC4-4D74-A9F7-88F5B29C6577}|Pr05 Lommeregner.csproj|c:\\users\\g\u00E6st\\source\\repos\\pr05 lommeregner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F8102A54-AEC4-4D74-A9F7-88F5B29C6577}|Pr05 Lommeregner.csproj|c:\\users\\pham2\\source\\repos\\lommeregner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F8102A54-AEC4-4D74-A9F7-88F5B29C6577}|Pr05 Lommeregner.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8102A54-AEC4-4D74-A9F7-88F5B29C6577}|Pr05 Lommeregner.csproj|c:\\users\\g\u00E6st\\source\\repos\\pr05 lommeregner\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F8102A54-AEC4-4D74-A9F7-88F5B29C6577}|Pr05 Lommeregner.csproj|c:\\users\\pham2\\source\\repos\\lommeregner\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F8102A54-AEC4-4D74-A9F7-88F5B29C6577}|Pr05 Lommeregner.csproj|solutionrelative:calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Calculator.cs",
-              "DocumentMoniker": "C:\\Users\\G\u00E6st\\source\\repos\\Pr05 Lommeregner\\Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\Pham2\\source\\repos\\Lommeregner\\Calculator.cs",
               "RelativeDocumentMoniker": "Calculator.cs",
-              "ToolTip": "C:\\Users\\G\u00E6st\\source\\repos\\Pr05 Lommeregner\\Calculator.cs",
+              "ToolTip": "C:\\Users\\Pham2\\source\\repos\\Lommeregner\\Calculator.cs",
               "RelativeToolTip": "Calculator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-13T08:45:35.142Z",
               "EditorCaption": ""
@@ -37,11 +37,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\G\u00E6st\\source\\repos\\Pr05 Lommeregner\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pham2\\source\\repos\\Lommeregner\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\G\u00E6st\\source\\repos\\Pr05 Lommeregner\\Program.cs",
+              "ToolTip": "C:\\Users\\Pham2\\source\\repos\\Lommeregner\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAQwBoAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-13T08:42:43.412Z",
               "EditorCaption": ""

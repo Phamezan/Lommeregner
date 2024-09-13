@@ -9,10 +9,10 @@ namespace Pr05_Lommeregner
     public class Calculator
     {
 
-        public int Add(int x, int y) { return x + y; }
-        public int Minus(int x,int y) { return x - y; }
-        public double Divide(int x,double y) { return x / y; }
-        public int Multiply(int x, int y) { return x * y; }
+        public double Add(double x, double y) { return x + y; }
+        public double Minus(double x,double y) { return x - y; }
+        public double Divide(double x,double y) { return x / y; }
+        public double Multiply(double x, double y) { return x * y; }
 
     }
 }

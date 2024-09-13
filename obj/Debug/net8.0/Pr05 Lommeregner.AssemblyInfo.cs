@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pr05 Lommeregner")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee4ccd8f309e5e3c5d2c5ab26a3eaf6e56de3d59")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pr05 Lommeregner")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pr05 Lommeregner")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

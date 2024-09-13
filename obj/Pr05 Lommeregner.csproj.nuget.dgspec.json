@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gæst\\source\\repos\\Pr05 Lommeregner\\Pr05 Lommeregner.csproj": {}
+    "C:\\Users\\Pham2\\Source\\Repos\\Lommeregner\\Pr05 Lommeregner.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gæst\\source\\repos\\Pr05 Lommeregner\\Pr05 Lommeregner.csproj": {
+    "C:\\Users\\Pham2\\Source\\Repos\\Lommeregner\\Pr05 Lommeregner.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gæst\\source\\repos\\Pr05 Lommeregner\\Pr05 Lommeregner.csproj",
+        "projectUniqueName": "C:\\Users\\Pham2\\Source\\Repos\\Lommeregner\\Pr05 Lommeregner.csproj",
         "projectName": "Pr05 Lommeregner",
-        "projectPath": "C:\\Users\\Gæst\\source\\repos\\Pr05 Lommeregner\\Pr05 Lommeregner.csproj",
-        "packagesPath": "C:\\Users\\Gæst\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gæst\\source\\repos\\Pr05 Lommeregner\\obj\\",
+        "projectPath": "C:\\Users\\Pham2\\Source\\Repos\\Lommeregner\\Pr05 Lommeregner.csproj",
+        "packagesPath": "C:\\Users\\Pham2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pham2\\Source\\Repos\\Lommeregner\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Gæst\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Pham2\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,8 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files\\dotnet\\library-packs": {}
         },
         "frameworks": {
           "net8.0": {
@@ -61,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
