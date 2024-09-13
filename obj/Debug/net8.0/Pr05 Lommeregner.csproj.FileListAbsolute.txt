@@ -1,0 +1,14 @@
+C:\Users\Gæst\source\repos\Pr05 Lommeregner\bin\Debug\net8.0\Pr05 Lommeregner.exe
+C:\Users\Gæst\source\repos\Pr05 Lommeregner\bin\Debug\net8.0\Pr05 Lommeregner.deps.json
+C:\Users\Gæst\source\repos\Pr05 Lommeregner\bin\Debug\net8.0\Pr05 Lommeregner.runtimeconfig.json
+C:\Users\Gæst\source\repos\Pr05 Lommeregner\bin\Debug\net8.0\Pr05 Lommeregner.dll
+C:\Users\Gæst\source\repos\Pr05 Lommeregner\bin\Debug\net8.0\Pr05 Lommeregner.pdb
+C:\Users\Gæst\source\repos\Pr05 Lommeregner\obj\Debug\net8.0\Pr05 Lommeregner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gæst\source\repos\Pr05 Lommeregner\obj\Debug\net8.0\Pr05 Lommeregner.AssemblyInfoInputs.cache
+C:\Users\Gæst\source\repos\Pr05 Lommeregner\obj\Debug\net8.0\Pr05 Lommeregner.AssemblyInfo.cs
+C:\Users\Gæst\source\repos\Pr05 Lommeregner\obj\Debug\net8.0\Pr05 Lommeregner.csproj.CoreCompileInputs.cache
+C:\Users\Gæst\source\repos\Pr05 Lommeregner\obj\Debug\net8.0\Pr05 Lommeregner.dll
+C:\Users\Gæst\source\repos\Pr05 Lommeregner\obj\Debug\net8.0\refint\Pr05 Lommeregner.dll
+C:\Users\Gæst\source\repos\Pr05 Lommeregner\obj\Debug\net8.0\Pr05 Lommeregner.pdb
+C:\Users\Gæst\source\repos\Pr05 Lommeregner\obj\Debug\net8.0\Pr05 Lommeregner.genruntimeconfig.cache
+C:\Users\Gæst\source\repos\Pr05 Lommeregner\obj\Debug\net8.0\ref\Pr05 Lommeregner.dll
