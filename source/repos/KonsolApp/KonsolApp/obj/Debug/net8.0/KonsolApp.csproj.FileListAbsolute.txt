@@ -1,0 +1,15 @@
+C:\Users\Pham2\source\repos\KonsolApp\KonsolApp\obj\Debug\net8.0\KonsolApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pham2\source\repos\KonsolApp\KonsolApp\obj\Debug\net8.0\KonsolApp.AssemblyInfoInputs.cache
+C:\Users\Pham2\source\repos\KonsolApp\KonsolApp\obj\Debug\net8.0\KonsolApp.AssemblyInfo.cs
+C:\Users\Pham2\source\repos\KonsolApp\KonsolApp\obj\Debug\net8.0\KonsolApp.csproj.CoreCompileInputs.cache
+C:\Users\Pham2\source\repos\KonsolApp\KonsolApp\obj\Debug\net8.0\KonsolApp.sourcelink.json
+C:\Users\Pham2\source\repos\KonsolApp\KonsolApp\bin\Debug\net8.0\KonsolApp.exe
+C:\Users\Pham2\source\repos\KonsolApp\KonsolApp\bin\Debug\net8.0\KonsolApp.deps.json
+C:\Users\Pham2\source\repos\KonsolApp\KonsolApp\bin\Debug\net8.0\KonsolApp.runtimeconfig.json
+C:\Users\Pham2\source\repos\KonsolApp\KonsolApp\bin\Debug\net8.0\KonsolApp.dll
+C:\Users\Pham2\source\repos\KonsolApp\KonsolApp\bin\Debug\net8.0\KonsolApp.pdb
+C:\Users\Pham2\source\repos\KonsolApp\KonsolApp\obj\Debug\net8.0\KonsolApp.dll
+C:\Users\Pham2\source\repos\KonsolApp\KonsolApp\obj\Debug\net8.0\refint\KonsolApp.dll
+C:\Users\Pham2\source\repos\KonsolApp\KonsolApp\obj\Debug\net8.0\KonsolApp.pdb
+C:\Users\Pham2\source\repos\KonsolApp\KonsolApp\obj\Debug\net8.0\KonsolApp.genruntimeconfig.cache
+C:\Users\Pham2\source\repos\KonsolApp\KonsolApp\obj\Debug\net8.0\ref\KonsolApp.dll
